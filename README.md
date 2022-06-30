@@ -1,6 +1,9 @@
 # Excel_Initial_Project
+Thank You for visiting my Profile.
 
-As i am learning excel, I am becoming more and more confident. I am findind excel and data analysis very important and interesting.
+As i am learning excel, I am becoming more and more confident. 
 I have started to understand that, Analysis is not about "What?", But analysis is about "Why?".
 
-In my First Project, I have made a Sales Project. Here I have try to analyse Where People have more wages?, Between What age groups people prefer to buy Car/Bike?, How much you will earn as per your qualification? and much more....
+To make this project, I have followed YouTube video of Alex The Analyst (https://www.youtube.com/watch?v=opJgMj1IUrc).									
+In this Project I try to analyze many different aspects based on Gender, Region, Age group and much more.									
+I have used Pivot tables to simplify the data ans I use simple graphs for data visualisation.									
